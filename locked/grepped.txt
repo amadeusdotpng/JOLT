@@ -1,0 +1,11 @@
+hasmain
+ryruntime.main not on m0
+gePageOSremaining pointe
+ out of domainsoftware c
+e space remainingruntime
+routines (main called ru
+runtime.main
+runtime.main.func2
+runtime.main.func1
+main.main
+main.printFlag
